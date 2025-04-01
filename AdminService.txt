@@ -2,7 +2,7 @@ Admin can add or remove users
 Admin can change the roles.
 
 manage the database
-closing the connection
+closing the database connection
 
 change1
 change2 in Rahul's database
